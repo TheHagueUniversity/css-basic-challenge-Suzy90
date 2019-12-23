@@ -71,13 +71,13 @@ h3 {
 }
 
 
+
 /* Profile
 ------------------------------------*/
 header {
   background: #541F3C;
   color: #EF9B9B;
 }
-
 
 /* Projects
 ------------------------------------*/
@@ -140,4 +140,28 @@ footer {
 .contact-list a {
   padding: 15px;
   display: inline-block;
+}
+
+/* Button Link Work Experience
+-----------------------------------*/
+#btnWorkexperience {
+  border: solid red;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+  #btnWorkexperience:hover {
+  background: rgba(250,	219, 221, 90%);
+}
+
+#homePage {
+  border: solid pink;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+  #homePage:hover {
+  background: rgba(235, 208, 235, 90%); 
 }
