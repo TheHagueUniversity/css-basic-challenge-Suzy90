@@ -127,6 +127,38 @@ header {
 }
 
 
+/* Hobbies Gallery
+------------------------------------*/
+.hobbies {
+    background-color: beige;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+div.gallery {
+  margin: 40px;  
+  border:1px solid #ccc;
+  float: center;
+  width: 180px;
+  background-color: antiquewhite;
+  display: inline-block;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;    
+}
+
+
 /* Contact Info
 ------------------------------------*/
 footer {
