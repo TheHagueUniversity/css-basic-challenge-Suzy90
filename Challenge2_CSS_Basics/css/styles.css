@@ -134,6 +134,9 @@ header {
     margin: 0 auto;
     padding: 40px 0;
 }
+.hobbies h2 {
+  margin-top: 0;
+}
 
 div.gallery {
   margin: 40px;  
@@ -187,7 +190,7 @@ footer {
   background: rgba(250,	219, 221, 90%);
 }
 
-#homePage {
+  #homePage {
   border: solid pink;
   padding: 14px 28px;
   font-size: 16px;
